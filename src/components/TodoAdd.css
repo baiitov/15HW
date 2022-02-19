@@ -1,0 +1,29 @@
+.forma{
+ width: 600px;
+ height: 60px;
+ background-color: rgb(156, 143, 126);
+ border-radius: 10px;
+}
+.inp{
+  width: 400px;
+    height: 25px;
+    margin-top: 15px;
+}
+.btn{
+  transition-duration: 0.4s;
+  background-color: #8d8d8d; /* Green */
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-family:cursive;
+}
+.btn:hover{
+  background-color: #000000; /* Green */
+  color: white;
+
+}
